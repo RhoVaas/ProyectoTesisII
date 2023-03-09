@@ -1,421 +1,65 @@
-                                 +++++Comparaciones de semillas+++++
+                                 +++++Comparaciones de Casos+++++
 
--------Semilla 120-------
+Caso de Prueba Pequenio | | Probabilidad: 120 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (30117) 
 
-                      
+Caso de Prueba Pequenio | | Probabilidad: 121 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (25667) 
 
-||Probabilidad de Agregar&Eliminar: 30||
+Caso de Prueba Pequenio | | Probabilidad: 122 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (43656) 
 
-                      
+Caso de Prueba Pequenio | | Probabilidad: 123 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (28300) 
 
- 
+Caso de Prueba Pequenio | | Probabilidad: 124 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (26461) 
 
-9 35 5 21 45 26 4 25 3 12 41 40 28 20 39 6 16 30 46 48 38 7 49 38 47 11 22 33 37 31 17 44 15 42 10 23 13 34 18 36 50 14 0 24 19 1 32 2 29 43 8 (28577)
+Caso de Prueba Pequenio | | Probabilidad: 125 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (34921) 
 
-----------------------------------------------------
+Caso de Prueba Pequenio | | Probabilidad: 126 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (35764) 
 
-                      
+Caso de Prueba Pequenio | | Probabilidad: 127 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (24222) 
 
-||Probabilidad de Agregar&Eliminar: 50||
+Caso de Prueba Pequenio | | Probabilidad: 128 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (27201) 
 
-                      
-
- 
-
-3 41 5 7 17 30 12 22 36 25 31 6 43 5 35 34 11 10 0 42 8 9 8 28 18 24 16 38 1 29 40 27 28 21 4 20 2 32 27 13 10 48 50 23 33 46 37 47 39 19 44 15 26 45 (20167)
-
-----------------------------------------------------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 70||
-
-                      
+Caso de Prueba Pequenio | | Probabilidad: 129 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (26182)
 
  
 
-20 26 15 5 35 8 43 44 48 34 46 40 33 31 11 0 7 17 44 13 47 38 2 32 46 32 1 10 46 0 23 36 22 12 30 18 28 40 29 19 24 18 41 30 16 39 2 45 24 25 50 1 14 3 26 (20835)
+Caso de Prueba Mediano | | Probabilidad: 120 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (126772) 
 
-----------------------------------------------------
+Caso de Prueba Mediano | | Probabilidad: 121 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (139270) 
 
-//////////////////////////////////////////////////////
+Caso de Prueba Mediano | | Probabilidad: 122 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (133626) 
 
-                                                       
+Caso de Prueba Mediano | | Probabilidad: 123 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (145456) 
 
--------Semilla 121-------
+Caso de Prueba Mediano | | Probabilidad: 124 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (138975) 
 
-                      
+Caso de Prueba Mediano | | Probabilidad: 125 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (148518) 
 
-||Probabilidad de Agregar&Eliminar: 30||
+Caso de Prueba Mediano | | Probabilidad: 126 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (145715) 
 
-                      
+Caso de Prueba Mediano | | Probabilidad: 127 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (112353) 
 
- 
+Caso de Prueba Mediano | | Probabilidad: 128 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (137465) 
 
-50 11 35 9 8 43 7 33 23 0 38 41 40 28 19 26 22 12 15 4 42 39 18 13 3 25 31 24 45 17 30 13 34 46 37 44 36 16 47 1 21 14 29 5 29 10 27 31 48 49 32 2 20 (21131)
+Caso de Prueba Mediano | | Probabilidad: 129 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (146848) 
 
-----------------------------------------------------
 
-                      
 
-||Probabilidad de Agregar&Eliminar: 50||
+Caso de Prueba Grande | | Probabilidad: 120 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (519934)          
 
-                      
+Caso de Prueba Grande | | Probabilidad: 121 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (475980) 
 
- 
+Caso de Prueba Grande | | Probabilidad: 122 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (472513) 
 
-10 43 10 8 6 36 21 39 28 40 16 6 1 38 0 4 15 30 50 19 39 18 4 33 24 45 12 22 26 20 4 35 3 32 2 14 10 1 38 41 37 5 42 9 27 31 27 5 34 46 30 39 32 1 23 49 17 25 48 (26208)
+Caso de Prueba Grande | | Probabilidad: 123 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (491128) 
 
-----------------------------------------------------
+Caso de Prueba Grande | | Probabilidad: 124 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (522022) 
 
-                      
+Caso de Prueba Grande | | Probabilidad: 125 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (507258) 
 
-||Probabilidad de Agregar&Eliminar: 70||
+Caso de Prueba Grande | | Probabilidad: 126 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (527788) 
 
-                      
+Caso de Prueba Grande | | Probabilidad: 127 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (519342) 
 
- 
+Caso de Prueba Grande | | Probabilidad: 128 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (524860) 
 
-3 24 31 6 43 24 17 41 7 40 38 11 44 13 22 26 29 28 18 3 20 2 10 5 12 6 35 9 45 14 1 47 37 44 14 30 15 50 1 0 14 42 30 16 21 33 23 8 32 28 27 19 34 4 49 46 25 48 (34932)
-
-----------------------------------------------------
-
-//////////////////////////////////////////////////////
-
-                                                       
-
--------Semilla 122-------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 30||
-
-                      
-
- 
-
-9 43 7 23 0 35 3 20 36 36 6 27 1 6 17 44 16 41 19 39 18 12 47 37 13 29 5 17 30 12 50 14 10 43 21 46 32 13 49 11 22 44 19 26 45 41 40 41 34 38 33 28 (24004)
-
-----------------------------------------------------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 50||
-
-                      
-
- 
-
-26 10 8 17 47 46 48 43 49 34 41 11 32 1 14 42 29 50 2 6 12 45 26 20 38 49 25 36 13 22 24 36 47 0 21 4 31 30 15 39 16 3 42 18 44 41 40 19 7 35 33 28 (29766)
-
-----------------------------------------------------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 70||
-
-                      
-
- 
-
-6 35 48 8 40 17 44 22 19 26 5 21 39 27 2 20 40 41 41 0 38 16 24 7 35 33 12 18 49 14 3 25 11 43 1 10 50 25 29 10 4 20 31 30 16 37 15 40 3 32 46 42 34 47 9 1 45 28 (35715)
-
-----------------------------------------------------
-
-//////////////////////////////////////////////////////
-
-                                                       
-
--------Semilla 123-------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 30||
-
-                      
-
- 
-
-20 24 19 28 30 17 6 50 34 15 39 21 41 40 31 25 3 48 9 8 43 11 23 0 14 45 12 18 13 26 22 36 21 4 35 7 37 47 1 10 0 47 1 32 46 33 16 40 27 42 5 15 44 2 (17594)
-
-----------------------------------------------------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 50||
-
-                      
-
- 
-
-11 7 28 16 32 5 9 17 20 39 15 44 29 41 49 47 35 4 47 43 8 34 1 23 36 3 48 20 33 22 11 45 13 30 50 31 26 12 14 10 6 40 19 39 18 24 37 27 46 25 0 42 2 (32574)
-
-----------------------------------------------------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 70||
-
-                      
-
- 
-
-39 6 3 20 11 43 30 25 16 47 5 15 41 48 18 13 37 35 9 49 36 46 24 45 4 20 19 39 19 44 38 23 33 14 33 22 26 12 28 7 50 32 17 8 10 1 14 1 20 31 29 40 27 34 47 0 42 2 (31959)
-
-----------------------------------------------------
-
-//////////////////////////////////////////////////////
-
-                                                       
-
--------Semilla 124-------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 30||
-
-                      
-
- 
-
-39 6 17 5 50 48 2 20 14 15 36 37 41 40 16 44 42 13 33 32 46 34 6 35 7 30 8 43 11 25 23 4 21 29 47 19 26 45 3 9 43 13 22 12 2 14 10 24 18 28 31 27 15 38 (29619)
-
-----------------------------------------------------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 50||
-
-                      
-
- 
-
-40 19 5 29 28 47 1 16 24 45 24 41 21 39 4 20 0 13 33 46 34 4 35 37 42 30 14 1 10 43 48 20 4 25 45 11 49 22 6 17 8 7 50 26 31 27 12 44 2 32 15 3 8 38 23 (28965)
-
-----------------------------------------------------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 70||
-
-                      
-
- 
-
-29 40 17 24 18 30 46 36 22 36 19 50 26 19 44 48 47 16 24 20 4 21 45 25 41 0 0 0 47 38 0 20 1 47 49 44 14 9 7 5 35 9 8 39 19 24 31 27 40 17 39 3 32 41 41 23 (12710)
-
-----------------------------------------------------
-
-//////////////////////////////////////////////////////
-
-                                                       
-
--------Semilla 125-------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 30||
-
-                      
-
- 
-
-27 31 25 41 34 12 22 36 20 24 33 46 32 0 42 11 7 9 7 10 1 38 47 17 30 3 14 44 15 50 40 29 40 18 13 44 48 43 8 37 46 26 19 25 20 39 21 4 35 6 2 40 (13750)
-
-----------------------------------------------------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 50||
-
-                      
-
- 
-
-47 20 2 26 3 4 16 24 33 22 46 32 0 1 41 17 7 10 6 43 48 50 29 45 21 11 19 42 15 30 12 18 14 38 1 37 44 39 8 9 49 25 45 27 40 28 35 5 11 34 (28623)
-
-----------------------------------------------------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 70||
-
-                      
-
- 
-
-14 10 43 11 24 36 23 0 47 16 44 19 39 15 37 46 32 2 39 15 42 0 38 47 49 9 35 4 35 21 26 20 4 27 40 17 30 18 30 13 13 22 12 3 25 41 41 50 43 5 1 (10307)
-
-----------------------------------------------------
-
-//////////////////////////////////////////////////////
-
-                                                       
-
--------Semilla 126-------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 30||
-
-                      
-
- 
-
-38 3 25 31 27 36 21 14 0 20 27 41 10 7 19 26 34 4 42 28 12 48 22 44 5 28 23 32 46 1 23 47 17 24 8 33 24 18 39 15 30 29 43 16 40 29 50 49 45 7 35 6 11 37 2 (30853)
-
-----------------------------------------------------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 50||
-
-                      
-
- 
-
-35 7 3 9 8 34 21 14 0 42 32 45 49 28 46 11 43 6 12 22 8 17 37 38 1 41 44 16 50 23 33 26 19 27 47 13 15 39 18 28 29 24 36 20 4 48 30 16 31 10 1 2 (28713)
-
-----------------------------------------------------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 70||
-
-                      
-
- 
-
-38 50 25 36 46 34 40 16 21 41 0 20 0 10 18 28 19 28 21 4 32 17 47 9 29 27 15 44 29 5 29 1 2 14 6 23 33 16 24 27 31 12 39 15 30 13 48 43 7 45 49 22 37 16 11 8 42 3 2 (32046)
-
-----------------------------------------------------
-
-//////////////////////////////////////////////////////
-
-                                                       
-
--------Semilla 127-------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 30||
-
-                      
-
- 
-
-11 43 48 41 31 27 40 29 49 9 7 17 24 20 36 3 25 45 16 39 21 42 33 46 37 14 26 22 15 44 13 12 30 16 32 2 38 10 50 6 35 4 12 23 1 0 42 5 18 28 19 (18434)
-
-----------------------------------------------------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 50||
-
-                      
-
- 
-
-11 29 37 46 27 40 41 16 34 35 45 25 43 10 9 5 1 38 12 8 18 28 23 1 50 13 34 26 21 39 20 24 33 14 30 22 15 44 49 7 31 0 42 1 32 2 6 4 20 14 10 0 47 36 17 19 (30073)
-
-----------------------------------------------------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 70||
-
-                      
-
- 
-
-11 43 48 32 2 37 8 17 10 47 50 23 36 7 35 9 7 30 13 26 20 3 41 12 18 28 4 29 5 29 42 34 15 24 45 25 31 40 17 44 16 24 18 39 21 39 47 27 14 22 44 38 0 28 40 46 32 1 6 43 33 38 2 14 0 47 36 49 19 (30210)
-
-----------------------------------------------------
-
-//////////////////////////////////////////////////////
-
-                                                       
-
--------Semilla 128-------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 30||
-
-                      
-
- 
-
-9 50 21 36 25 3 32 1 23 33 22 13 32 28 18 28 19 24 31 27 15 30 16 35 7 47 38 1 14 10 0 42 41 40 29 5 17 39 20 4 17 6 49 45 26 20 43 11 43 (10232)
-
-----------------------------------------------------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 50||
-
-                      
-
- 
-
-13 30 38 3 20 4 22 27 26 19 31 27 43 6 24 17 18 39 47 14 1 23 36 21 50 1 26 45 25 8 35 6 43 48 9 7 46 37 48 44 34 10 28 24 16 40 41 5 29 11 49 12 0 33 2 15 32 (29971)
-
-----------------------------------------------------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 70||
-
-                      
-
- 
-
-13 22 3 20 4 35 9 38 0 18 28 34 7 44 18 12 50 47 41 19 3 14 7 12 30 17 42 48 49 17 6 48 27 24 23 1 24 47 39 16 11 21 36 5 21 26 31 45 25 37 8 5 43 11 40 10 29 33 2 15 32 (36053)
-
-----------------------------------------------------
-
-//////////////////////////////////////////////////////
-
-                                                       
-
--------Semilla 129-------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 30||
-
-                      
-
- 
-
-18 17 42 0 43 1 27 24 41 37 6 13 38 45 10 14 9 30 16 20 4 1 48 36 3 22 33 7 2 34 22 46 47 31 40 23 12 29 5 21 26 11 50 39 19 28 49 44 25 32 8 35 (37632)
-
-----------------------------------------------------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 50||
-
-                      
-
- 
-
-9 17 42 15 30 31 25 41 40 36 46 33 22 14 32 43 11 16 24 4 23 1 33 28 2 20 39 19 10 45 26 27 47 12 50 49 2 29 5 21 34 43 8 23 7 3 38 13 44 18 0 6 35 (29761)
-
-----------------------------------------------------
-
-                      
-
-||Probabilidad de Agregar&Eliminar: 70||
-
-                      
-
- 
-
-32 27 42 10 30 17 8 41 37 50 18 28 12 45 7 14 9 43 15 16 20 4 1 43 48 36 3 2 13 0 33 46 34 47 2 24 40 23 12 29 5 21 26 31 25 39 19 38 49 44 7 11 22 6 35 (35861)
-
-----------------------------------------------------
-
-//////////////////////////////////////////////////////
-
-                                                       
+Caso de Prueba Grande | | Probabilidad: 129 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (513652) 
