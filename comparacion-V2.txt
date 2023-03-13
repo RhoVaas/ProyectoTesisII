@@ -1,0 +1,181 @@
+Caso de Prueba | Probabilidad | Semilla | Parametro de iteraciones | Calidad Final
+
+ Pequenio | 120 | 30 | 10000 |  
+
+ Pequenio | 120 | 50 | 10000 |  
+
+ Pequenio | 120 | 70 | 10000 |  
+
+ Pequenio | 121 | 30 | 10000 |  
+
+ Pequenio | 121 | 50 | 10000 |  
+
+ Pequenio | 121 | 70 | 10000 |  
+
+ Pequenio | 122 | 30 | 10000 |  
+
+ Pequenio | 122 | 50 | 10000 |  
+
+ Pequenio | 122 | 70 | 10000 |  
+
+ Pequenio | 123 | 30 | 10000 |  
+
+ Pequenio | 123 | 50 | 10000 |  
+
+ Pequenio | 123 | 70 | 10000 |  
+
+ Pequenio | 124 | 30 | 10000 |  
+
+ Pequenio | 124 | 50 | 10000 |  
+
+ Pequenio | 124 | 70 | 10000 |  
+
+ Pequenio | 125 | 30 | 10000 |  
+
+ Pequenio | 125 | 50 | 10000 |  
+
+ Pequenio | 125 | 70 | 10000 |  
+
+ Pequenio | 126 | 30 | 10000 |  
+
+ Pequenio | 126 | 50 | 10000 |  
+
+ Pequenio | 126 | 70 | 10000 |  
+
+ Pequenio | 127 | 30 | 10000 |  
+
+ Pequenio | 127 | 50 | 10000 |  
+
+ Pequenio | 127 | 70 | 10000 |  
+
+ Pequenio | 128 | 30 | 10000 |  
+
+ Pequenio | 128 | 50 | 10000 |  
+
+ Pequenio | 128 | 70 | 10000 |  
+
+ Pequenio | 129 | 30 | 10000 |  
+
+ Pequenio | 129 | 50 | 10000 |  
+
+ Pequenio | 129 | 70 | 10000 |  
+
+ Mediano | 120 | 30 | 10000 |  
+
+ Mediano | 120 | 50 | 10000 |  
+
+ Mediano | 120 | 70 | 10000 |  
+
+ Mediano | 121 | 30 | 10000 |  
+
+ Mediano | 121 | 50 | 10000 |  
+
+ Mediano | 121 | 70 | 10000 |  
+
+ Mediano | 122 | 30 | 10000 |  
+
+ Mediano | 122 | 50 | 10000 |  
+
+ Mediano | 122 | 70 | 10000 |  
+
+ Mediano | 123 | 30 | 10000 |  
+
+ Mediano | 123 | 50 | 10000 |  
+
+ Mediano | 123 | 70 | 10000 |  
+
+ Mediano | 124 | 30 | 10000 |  
+
+ Mediano | 124 | 50 | 10000 |  
+
+ Mediano | 124 | 70 | 10000 |  
+
+ Mediano | 125 | 30 | 10000 |  
+
+ Mediano | 125 | 50 | 10000 |  
+
+ Mediano | 125 | 70 | 10000 |  
+
+ Mediano | 126 | 30 | 10000 |  
+
+ Mediano | 126 | 50 | 10000 |  
+
+ Mediano | 126 | 70 | 10000 |  
+
+ Mediano | 127 | 30 | 10000 |  
+
+ Mediano | 127 | 50 | 10000 |  
+
+ Mediano | 127 | 70 | 10000 |  
+
+ Mediano | 128 | 30 | 10000 |  
+
+ Mediano | 128 | 50 | 10000 |  
+
+ Mediano | 128 | 70 | 10000 |  
+
+ Mediano | 129 | 30 | 10000 |  
+
+ Mediano | 129 | 50 | 10000 |  
+
+ Mediano | 129 | 70 | 10000 |  
+
+ Grande | 120 | 30 | 10000 |  
+
+ Grande | 120 | 50 | 10000 |  
+
+ Grande | 120 | 70 | 10000 |  
+
+ Grande | 121 | 30 | 10000 |  
+
+ Grande | 121 | 50 | 10000 |  
+
+ Grande | 121 | 70 | 10000 |  
+
+ Grande | 122 | 30 | 10000 |  
+
+ Grande | 122 | 50 | 10000 |  
+
+ Grande | 122 | 70 | 10000 |  
+
+ Grande | 123 | 30 | 10000 |  
+
+ Grande | 123 | 50 | 10000 |  
+
+ Grande | 123 | 70 | 10000 |  
+
+ Grande | 124 | 30 | 10000 |  
+
+ Grande | 124 | 50 | 10000 |  
+
+ Grande | 124 | 70 | 10000 |  
+
+ Grande | 125 | 30 | 10000 |  
+
+ Grande | 125 | 50 | 10000 |  
+
+ Grande | 125 | 70 | 10000 |  
+
+ Grande | 126 | 30 | 10000 |  
+
+ Grande | 126 | 50 | 10000 |  
+
+ Grande | 126 | 70 | 10000 |  
+
+ Grande | 127 | 30 | 10000 |  
+
+ Grande | 127 | 50 | 10000 |  
+
+ Grande | 127 | 70 | 10000 |  
+
+ Grande | 128 | 30 | 10000 |  
+
+ Grande | 128 | 50 | 10000 |  
+
+ Grande | 128 | 70 | 10000 |  
+
+ Grande | 129 | 30 | 10000 |  
+
+ Grande | 129 | 50 | 10000 |  
+
+ Grande | 129 | 70 | 10000 |  
