@@ -60,7 +60,11 @@ done
 
 touch comparacion.txt
 
-echo "                                 +++++Comparaciones de Casos+++++" >>comparacion.txt
+#echo "                                 +++++Comparaciones de Casos+++++" >>comparacion.txt
+
+echo "Caso de Prueba | Semilla | Probabilidad | Parametro de iteraciones | Calidad Final" >>comparacion.txt
+
+
 
 
 
@@ -94,9 +98,9 @@ do
 
    
 
-   echo "Caso de Prueba Pequenio | | Probabilidad: 12$y | | Semilla: $n || Parametro de iteraciones: 10000 || Calidad Final: $calidad1 " >> comparacion.txt
+   echo " Pequenio | 12$y | $n | 10000 | $calidad1 " >> comparacion.txt
 
-   echo "             "  >> comparacion.txt
+#   echo "             "  >> comparacion.txt
 
    
 
@@ -116,9 +120,9 @@ do
 
    
 
-   echo "Caso de Prueba Mediano | | Probabilidad: 12$y | | Semilla: $n || Parametro de iteraciones: 10000 || Calidad Final: $calidad2 " >> comparacion.txt
+   echo " Mediano | 12$y | $n | 10000 | $calidad2 " >> comparacion.txt
 
-   echo "             "  >> comparacion.txt
+#   echo "             "  >> comparacion.txt
 
    
 
@@ -134,59 +138,13 @@ do
 
    done < TESTGrande-prob$n-12$y.txt
 
-   echo "Caso de Prueba Grande | | Probabilidad: 12$y | | Semilla: $n || Parametro de iteraciones: 10000 || Calidad Final: $calidad3 " >> comparacion.txt
+   echo " Grande | 12$y | $n | 10000 | $calidad3 " >> comparacion.txt
 
-   echo "             "  >> comparacion.txt
+#   echo "             "  >> comparacion.txt
 
   fi
 
-#  if [[ $x -eq 30 ]]
 
-#  then
-
-#   echo "                      " >> comparacion.txt
-
-#   echo "||Probabilidad de Agregar&Eliminar: 30||" >> comparacion.txt
-
-#   echo "                      " >> comparacion.txt
-
-
-
-#  elif [[ $x -eq 50 ]]
-
-#  then
-
-#   echo "                      " >> comparacion.txt
-
-#   echo "||Probabilidad de Agregar&Eliminar: 50||" >> comparacion.txt
-
-#   echo "                      " >> comparacion.txt
-
-
-
-#  else
-
-#   echo "                      " >> comparacion.txt
-
-#   echo "||Probabilidad de Agregar&Eliminar: 70||" >> comparacion.txt
-
-#   echo "                      " >> comparacion.txt
-
-#  fi
-
-
-
-#  echo " ">> comparacion.txt
-
-#  cat TESTPequenio-prob$x-12$y.txt >> comparacion.txt
-
-#  echo "----------------------------------------------------">> comparacion.txt
-
-# done
-
-#  echo "//////////////////////////////////////////////////////">> comparacion.txt
-
-#  echo "                                                       ">> comparacion.txt
 
  done
 
