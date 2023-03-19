@@ -1,65 +1,61 @@
-                                 +++++Comparaciones de Casos+++++
+Caso de Prueba | Semilla | Probabilidad | Parametro de iteraciones | Calidad Final
 
-Caso de Prueba Pequenio | | Probabilidad: 120 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (30117) 
+ Pequenio | 120 | 71 | 10000 | (18236) 
 
-Caso de Prueba Pequenio | | Probabilidad: 121 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (25667) 
+ Pequenio | 121 | 71 | 10000 | (34906) 
 
-Caso de Prueba Pequenio | | Probabilidad: 122 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (43656) 
+ Pequenio | 122 | 71 | 10000 | (35715) 
 
-Caso de Prueba Pequenio | | Probabilidad: 123 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (28300) 
+ Pequenio | 123 | 71 | 10000 | (21688) 
 
-Caso de Prueba Pequenio | | Probabilidad: 124 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (26461) 
+ Pequenio | 124 | 71 | 10000 | (24941) 
 
-Caso de Prueba Pequenio | | Probabilidad: 125 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (34921) 
+ Pequenio | 125 | 71 | 10000 | (24546) 
 
-Caso de Prueba Pequenio | | Probabilidad: 126 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (35764) 
+ Pequenio | 126 | 71 | 10000 | (32911) 
 
-Caso de Prueba Pequenio | | Probabilidad: 127 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (24222) 
+ Pequenio | 127 | 71 | 10000 | (28378) 
 
-Caso de Prueba Pequenio | | Probabilidad: 128 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (27201) 
+ Pequenio | 128 | 71 | 10000 | (36053) 
 
-Caso de Prueba Pequenio | | Probabilidad: 129 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (26182)
+ Pequenio | 129 | 71 | 10000 | (35040) 
 
- 
+ Mediano | 120 | 71 | 10000 | (138397) 
 
-Caso de Prueba Mediano | | Probabilidad: 120 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (126772) 
+ Mediano | 121 | 71 | 10000 | (138819) 
 
-Caso de Prueba Mediano | | Probabilidad: 121 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (139270) 
+ Mediano | 122 | 71 | 10000 | (142613) 
 
-Caso de Prueba Mediano | | Probabilidad: 122 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (133626) 
+ Mediano | 123 | 71 | 10000 | (140907) 
 
-Caso de Prueba Mediano | | Probabilidad: 123 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (145456) 
+ Mediano | 124 | 71 | 10000 | (141053) 
 
-Caso de Prueba Mediano | | Probabilidad: 124 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (138975) 
+ Mediano | 125 | 71 | 10000 | (145593) 
 
-Caso de Prueba Mediano | | Probabilidad: 125 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (148518) 
+ Mediano | 126 | 71 | 10000 | (135419) 
 
-Caso de Prueba Mediano | | Probabilidad: 126 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (145715) 
+ Mediano | 127 | 71 | 10000 | (136376) 
 
-Caso de Prueba Mediano | | Probabilidad: 127 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (112353) 
+ Mediano | 128 | 71 | 10000 | (138606) 
 
-Caso de Prueba Mediano | | Probabilidad: 128 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (137465) 
+ Mediano | 129 | 71 | 10000 | (137213) 
 
-Caso de Prueba Mediano | | Probabilidad: 129 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (146848) 
+ Grande | 120 | 71 | 10000 | (508285) 
 
+ Grande | 121 | 71 | 10000 | (470271) 
 
+ Grande | 122 | 71 | 10000 | (485815) 
 
-Caso de Prueba Grande | | Probabilidad: 120 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (519934)          
+ Grande | 123 | 71 | 10000 | (496235) 
 
-Caso de Prueba Grande | | Probabilidad: 121 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (475980) 
+ Grande | 124 | 71 | 10000 | (522022) 
 
-Caso de Prueba Grande | | Probabilidad: 122 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (472513) 
+ Grande | 125 | 71 | 10000 | (487343) 
 
-Caso de Prueba Grande | | Probabilidad: 123 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (491128) 
+ Grande | 126 | 71 | 10000 | (496054) 
 
-Caso de Prueba Grande | | Probabilidad: 124 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (522022) 
+ Grande | 127 | 71 | 10000 | (471077) 
 
-Caso de Prueba Grande | | Probabilidad: 125 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (507258) 
+ Grande | 128 | 71 | 10000 | (490506) 
 
-Caso de Prueba Grande | | Probabilidad: 126 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (527788) 
-
-Caso de Prueba Grande | | Probabilidad: 127 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (519342) 
-
-Caso de Prueba Grande | | Probabilidad: 128 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (524860) 
-
-Caso de Prueba Grande | | Probabilidad: 129 | | Semilla: 73 || Parametro de iteraciones: 10000 || Calidad Final: (513652) 
+ Grande | 129 | 71 | 10000 | (513013) 
