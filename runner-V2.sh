@@ -10,7 +10,7 @@ touch comparacion-V2.txt
 
 #echo "                                 +++++Comparaciones de Casos+++++" >>comparacion.txt
 
-echo "Caso de Prueba | Probabilidad | Semilla | Parametro de iteraciones | Calidad Final" >>comparacion-V2.txt
+echo "Caso de Prueba | Semilla | Probabilidad | Parametro de iteraciones | Calidad Final" >>comparacion-V2.txt
 
 
 
@@ -30,13 +30,11 @@ do
 
     calidad1="$line"
 
-   done < TESTPequenio-prob$n1-12$y.txt
-
-   
+   done < TESTPequenio-prob$n1-12$i.txt  
 
    echo " Pequenio | 12$i | $n1 | 10000 | $calidad1 " >> comparacion-V2.txt
 
- done
+ done   
 
 done
 
@@ -58,9 +56,7 @@ do
 
      calidad2="$line"
 
-   done < TESTMediano-prob$n2-12$y.txt
-
-   
+   done < TESTMediano-prob$n2-12$i.txt
 
    echo " Mediano | 12$i | $n2 | 10000 | $calidad2 " >> comparacion-V2.txt
 
@@ -86,7 +82,7 @@ do
 
     calidad3="$line"
 
-   done < TESTGrande-prob$n3-12$y.txt
+   done < TESTGrande-prob$n3-12$i.txt
 
    echo " Grande | 12$i | $n3 | 10000 | $calidad3 " >> comparacion-V2.txt
 
