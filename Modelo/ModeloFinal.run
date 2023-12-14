@@ -1,0 +1,49 @@
+reset ;
+model Argentina2.mod;
+#data Instances/Instance_n10_p0.1_s129.dat ;
+data NuevoCasoPequenioRenca.dat;
+option solver "./gurobi";
+option gurobi_options 'timelim 600';
+
+param TIEMPO_CPU;
+let TIEMPO_CPU:=0;
+
+display Au;
+display NotAu;
+display JustAu;
+display Ab;
+
+solve;
+display FO;
+
+for {(i,j) in Au: X[i,j]>0} {
+    printf"X [%2d %2d] = %f\n", i,j,X[i,j];
+};
+printf "\n";
+for {(i,j) in Ab: X[i,j]>0} {
+    printf"X [%2d %2d] = %f\n", i,j,X[i,j];
+};
+printf "\n";
+
+for {i in I: Y[i]>0}{
+    printf"Y [%2d] = %f\n", i, Y[i];
+}
+
+for {i in F: Z[i]>0}{
+    printf"Z [%2d] = %f\n", i, Z[i];
+}
+
+printf "\n";
+printf "\n";
+
+let TIEMPO_CPU:= _solve_user_time;
+
+display X;
+display Y;
+display FO;
+display solve_result;
+
+printf "%d %d ", FO, TIEMPO_CPU;
+if solve_result = "infeasible" then printf "infeasible\n";
+else printf "feasible\n";
+
